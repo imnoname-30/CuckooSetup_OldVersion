@@ -10,7 +10,7 @@ Cuckoo docs
   - Preparing the Host
     - [System dependencies](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/4ff07b30ee3f529dea5f771b07110515661da1c4/Cuckoo%20docs/Installation/Preparing%20the%20Host/Requirements.md)
     - [Cuckoo](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b37fd7915af5d193d218968ebbe651f93140754e/Cuckoo%20docs/Installation/Preparing%20the%20Host/InstallingCuckoo.md)
-    - [VMCloak]([https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/f180c100f5be440ed7c2b191dfbf5a044ce1791f/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/10c332d25908f81e4ad464b63dc6761c636b3313/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md))
+    - [VMCloak](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/10c332d25908f81e4ad464b63dc6761c636b3313/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md)
 
   - Preparing the Guest
     - [Guest's image Prepare](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/e8cd6f00ea443b68007d81c9a222f04631b7fc8a/Cuckoo%20docs/Installation/Preparing%20the%20Guest/imagePrepare.md)
