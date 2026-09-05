@@ -13,12 +13,12 @@ Cuckoo docs
     - [VMCloak](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/10c332d25908f81e4ad464b63dc6761c636b3313/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md)
 
   - Preparing the Guest
-    - [Guest's image Prepare](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/e8cd6f00ea443b68007d81c9a222f04631b7fc8a/Cuckoo%20docs/Installation/Preparing%20the%20Guest/imagePrepare.md)
-    - [Creation of the Virtual Machine](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/ab1b86ac17d354bef326fed688a8cd3f2d09819c/Cuckoo%20docs/Installation/Preparing%20the%20Guest/CreationoftheVirtualMachine.md)
+    - [Guest's image Prepare](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b909a6b645c56c2938f327a31018e3b75aae5323/Cuckoo%20docs/Installation/Preparing%20the%20Guest/imagePrepare.md)
+    - [Creation of the Virtual Machine](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b909a6b645c56c2938f327a31018e3b75aae5323/Cuckoo%20docs/Installation/Preparing%20the%20Guest/CreationoftheVirtualMachine.md)
 
 - Deploy
-  - [1st Terminal](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/ab1b86ac17d354bef326fed688a8cd3f2d09819c/Cuckoo%20docs/Deploy/1stTerminal.md)
-  - [2nd Terminal](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/ab1b86ac17d354bef326fed688a8cd3f2d09819c/Cuckoo%20docs/Deploy/2ndTerminal.md)
-  - [3rd Terminal](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/ab1b86ac17d354bef326fed688a8cd3f2d09819c/Cuckoo%20docs/Deploy/3rdTerminal.md)
+  - [1st Terminal](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b909a6b645c56c2938f327a31018e3b75aae5323/Cuckoo%20docs/Deploy/1stTerminal.md)
+  - [2nd Terminal](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b909a6b645c56c2938f327a31018e3b75aae5323/Cuckoo%20docs/Deploy/2ndTerminal.md)
+  - [3rd Terminal](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b909a6b645c56c2938f327a31018e3b75aae5323/Cuckoo%20docs/Deploy/3rdTerminal.md)
 
 Cảm ơn đã chọn và đọc tài liệu này. Chúc may mắn khi triển khai một môi trường sandbox để sử dụng vào việc nghiên cứu mã độc.
