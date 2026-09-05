@@ -4,11 +4,11 @@ Tài liệu Cuckoo ở trang web cũ do thiếu khá nhiều, hướng dẫn kh�
 
 Cuckoo docs
 - About
-  - [Cuckoo](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/ab1b86ac17d354bef326fed688a8cd3f2d09819c/Cuckoo%20docs/About/Cuckoo.md)
+  - [Cuckoo](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/4ff07b30ee3f529dea5f771b07110515661da1c4/Cuckoo%20docs/About/Cuckoo.md)
  
 - Installing
   - Preparing the Host
-    - [System dependencies](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/205560c72133942dccc7d23947547e04319ca0af/Cuckoo%20docs/Installation/Preparing%20the%20Host/Requirements.md)
+    - [System dependencies](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/4ff07b30ee3f529dea5f771b07110515661da1c4/Cuckoo%20docs/Installation/Preparing%20the%20Host/Requirements.md)
     - [Cuckoo](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/e46ac6561d42929dc1a387819357f759ba50ad35/Cuckoo%20docs/Installation/Preparing%20the%20Host/InstallingCuckoo.md)
     - [VMCloak](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/f180c100f5be440ed7c2b191dfbf5a044ce1791f/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md)
 
