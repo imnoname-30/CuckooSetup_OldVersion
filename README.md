@@ -9,7 +9,7 @@ Cuckoo docs
 - Installing
   - Preparing the Host
     - [System dependencies](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/4ff07b30ee3f529dea5f771b07110515661da1c4/Cuckoo%20docs/Installation/Preparing%20the%20Host/Requirements.md)
-    - [Cuckoo](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/e46ac6561d42929dc1a387819357f759ba50ad35/Cuckoo%20docs/Installation/Preparing%20the%20Host/InstallingCuckoo.md)
+    - [Cuckoo](https://github.com/imnoname-30/CuckooSetup_OldVersion/blob/b37fd7915af5d193d218968ebbe651f93140754e/Cuckoo%20docs/Installation/Preparing%20the%20Host/InstallingCuckoo.md)
     - [VMCloak](https://github.com/imnoname-30/Cuckoo-Setup-Old-version-Using-python2-python2.7-/blob/f180c100f5be440ed7c2b191dfbf5a044ce1791f/Cuckoo%20docs/Installation/Preparing%20the%20Host/VMCloak.md)
 
   - Preparing the Guest
